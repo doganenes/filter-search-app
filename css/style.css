@@ -86,10 +86,16 @@ li {
   color: white;
 }
 @media (max-width: 768px) {
+
+  #searchInput{
+    max-width: 20rem !important;
+  }
+
   li {
     display: flex;
     align-items: center;
     padding: 1.5rem;
     min-width: 20rem;
+    width: auto;
   }
 }
