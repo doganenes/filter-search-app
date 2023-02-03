@@ -1,5 +1,6 @@
 # Filter Search App
 Filter Search App project using HTML5, CSS3, Javascript.
+Live Demo: [https://filter-search-app-livedemo.netlify.app/](https://filter-search-app-livedemo.netlify.app/)
 
 ## Project Views
 ![view1](https://user-images.githubusercontent.com/86846812/216617502-10380c08-0b8f-4a38-bc8a-cf1688ac0942.png)
