@@ -86,8 +86,7 @@ li {
   color: white;
 }
 @media (max-width: 768px) {
-
-  #searchInput{
+  #searchInput {
     max-width: 20rem !important;
   }
 
