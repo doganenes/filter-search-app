@@ -1,0 +1,82 @@
+[{
+    "firstName": "Maison",
+    "lastName": "Henry",
+    "gender" : "Male"
+},
+{
+    "firstName": "Greta",
+    "lastName": "Jarvis",
+    "gender": "Male"
+},
+{   
+    "firstName": "Charlie",
+    "lastName" : "Castro",
+    "gender":"Female"
+},
+{   
+    "firstName": "James",
+    "lastName" : "Schaefer",
+    "gender":"Male"
+},
+{   
+    "firstName": "Kaleb",
+    "lastName" : "Richardson",
+    "gender":"Male"
+},
+{   
+    "firstName": "Evie",
+    "lastName" : "Martin",
+    "gender":"Female"
+},
+{   
+    "firstName": "Emilia",
+    "lastName" : "Marsh",
+    "gender":"Female"
+},
+{   
+    "firstName": "Bernard",
+    "lastName" : "Wiggins",
+    "gender":"Male"
+},
+{   
+    "firstName": "Abbas",
+    "lastName" : "Norman",
+    "gender":"Male"
+},
+{   
+    "firstName": "Maisie",
+    "lastName" : "Hardin",
+    "gender":"Female"
+},
+{   
+    "firstName": "Abigail",
+    "lastName" : "Moses",
+    "gender":"Female"
+},
+{   
+    "firstName": "Dominic",
+    "lastName" : "Frazier",
+    "gender":"Male"
+},
+{   
+    "firstName": "Tara",
+    "lastName" : "Mayer",
+    "gender":"Female"
+},
+{   
+    "firstName": "Dean",
+    "lastName" : "Rowland",
+    "gender":"Male"
+},
+{   
+    "firstName": "Chris",
+    "lastName" : "Cotton",
+    "gender":"Male"
+},
+{   
+    "firstName": "Osman",
+    "lastName" : "Blankenship",
+    "gender":"Male"
+}
+
+]

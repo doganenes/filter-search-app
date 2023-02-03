@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(
+    29deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(29, 177, 253, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: auto;
+  min-height: 100vh;
+}
+
+.container-fluid {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  letter-spacing: 3px;
+}
+
+.has-search .form-control {
+  padding-left: 2.375rem;
+  padding-right: 10rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 10;
+  display: block;
+  width: 2.4rem;
+  height: 2.4rem;
+  line-height: 2.4rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+ul {
+  margin-left: -35px;
+}
+li {
+  height: 2.4rem;
+  width: 25rem;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+  margin-top: 2rem;
+  border-radius: 1rem;
+}
+
+.gender {
+  display: inline-block;
+  width: 10px;
+  margin-right: 10px;
+}
+
+.male {
+  background-color: blue;
+  width: 3rem;
+  height: 1.5rem;
+  text-align: center;
+  color: white;
+  margin: -0.15rem 0;
+}
+
+.female {
+  background-color: red;
+  width: 4rem;
+  margin: -0.15rem 0;
+  height: 1.5rem;
+  text-align: center;
+  margin-left: 2rem;
+  color: white;
+}
+
