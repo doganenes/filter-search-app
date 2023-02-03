@@ -1,82 +1,82 @@
-[{
+[
+  {
     "firstName": "Maison",
     "lastName": "Henry",
-    "gender" : "Male"
-},
-{
+    "gender": "Male"
+  },
+  {
     "firstName": "Greta",
     "lastName": "Jarvis",
     "gender": "Male"
-},
-{   
+  },
+  {
     "firstName": "Charlie",
-    "lastName" : "Castro",
-    "gender":"Female"
-},
-{   
+    "lastName": "Castro",
+    "gender": "Female"
+  },
+  {
     "firstName": "James",
-    "lastName" : "Schaefer",
-    "gender":"Male"
-},
-{   
+    "lastName": "Schaefer",
+    "gender": "Male"
+  },
+  {
     "firstName": "Kaleb",
-    "lastName" : "Richardson",
-    "gender":"Male"
-},
-{   
+    "lastName": "Richardson",
+    "gender": "Male"
+  },
+  {
     "firstName": "Evie",
-    "lastName" : "Martin",
-    "gender":"Female"
-},
-{   
+    "lastName": "Martin",
+    "gender": "Female"
+  },
+  {
     "firstName": "Emilia",
-    "lastName" : "Marsh",
-    "gender":"Female"
-},
-{   
+    "lastName": "Marsh",
+    "gender": "Female"
+  },
+  {
     "firstName": "Bernard",
-    "lastName" : "Wiggins",
-    "gender":"Male"
-},
-{   
+    "lastName": "Wiggins",
+    "gender": "Male"
+  },
+  {
     "firstName": "Abbas",
-    "lastName" : "Norman",
-    "gender":"Male"
-},
-{   
+    "lastName": "Norman",
+    "gender": "Male"
+  },
+  {
     "firstName": "Maisie",
-    "lastName" : "Hardin",
-    "gender":"Female"
-},
-{   
+    "lastName": "Hardin",
+    "gender": "Female"
+  },
+  {
     "firstName": "Abigail",
-    "lastName" : "Moses",
-    "gender":"Female"
-},
-{   
+    "lastName": "Moses",
+    "gender": "Female"
+  },
+  {
     "firstName": "Dominic",
-    "lastName" : "Frazier",
-    "gender":"Male"
-},
-{   
+    "lastName": "Frazier",
+    "gender": "Male"
+  },
+  {
     "firstName": "Tara",
-    "lastName" : "Mayer",
-    "gender":"Female"
-},
-{   
+    "lastName": "Mayer",
+    "gender": "Female"
+  },
+  {
     "firstName": "Dean",
-    "lastName" : "Rowland",
-    "gender":"Male"
-},
-{   
+    "lastName": "Rowland",
+    "gender": "Male"
+  },
+  {
     "firstName": "Chris",
-    "lastName" : "Cotton",
-    "gender":"Male"
-},
-{   
+    "lastName": "Cotton",
+    "gender": "Male"
+  },
+  {
     "firstName": "Osman",
-    "lastName" : "Blankenship",
-    "gender":"Male"
-}
-
+    "lastName": "Blankenship",
+    "gender": "Male"
+  }
 ]
